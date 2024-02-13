@@ -1,0 +1,11 @@
+https://github.com/salesforce/Merlion
+
+work good
+#anomaly
+isolation forest (1d)
+windstats (1d)
+
+
+#forcast
+prophet (1d)
+extra tree forcaster (1d)
